@@ -129,7 +129,7 @@ h6 {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: #fff;
+  color: #FFFFFF;
   text-decoration: none;
 }
 
@@ -143,8 +143,8 @@ h6 {
 # Book a table button Menu
 --------------------------------------------------------------*/
 .book-a-table-btn {
-  background: #ffb03b;
-  color: #fff;
+  background: #8d7801;
+  color: #FFFFFF;
   border-radius: 50px;
   margin: 0 0 0 20px;
   padding: 10px 25px;
@@ -156,8 +156,8 @@ h6 {
 }
 
 .book-a-table-btn:hover {
-  background: #ffa012;
-  color: #fff;
+  background: #625301;
+  color: #FFFFFF;
 }
 
 @media (max-width: 992px) {
